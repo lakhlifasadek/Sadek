@@ -1,5 +1,8 @@
 # backward-differentiation-formula-SDE
-The resolution of the systems of differential equations using backward differentiation formulamethod
+The resolution of the systems of differential equations using backward differentiation formula method
+% E-mail: lakhlifasdek@gmail.com; sadek.l@ucd.ac.ma
+% ORCID : https://orcid.org/0000-0001-9780-2592
+%
 close all
 clear all
 clc
